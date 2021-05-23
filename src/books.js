@@ -1,0 +1,25 @@
+export const books = [{
+        id: 1,
+        img: 'https://vn-test-11.slatic.net/p/75acf9f0ebe9fd3cfcde1100b6c07b41.jpg_200x200q80.jpg_.webp',
+        title: 'san pham 1',
+        name: 'Ten san pham 1',
+        price: '100.000vnd',
+        auth: 'lazada',
+    },
+    {
+        id: 2,
+        img: 'https://cf.shopee.vn/file/0559a905cbaca01ea88bcd10cf2770b5',
+        title: 'san pham 2',
+        name: 'Ten san pham 2',
+        price: '200.000vnd',
+        auth: 'shoppe',
+    },
+    {
+        id: 3,
+        img: 'https://salt.tikicdn.com/cache/w444/ts/product/9c/15/25/5ce913aa114260939c797dca39e68834.jpg',
+        title: 'san pham 3',
+        name: 'Ten san pham 3',
+        price: '300.000vnd',
+        auth: 'tiki',
+    },
+]
